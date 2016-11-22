@@ -1,0 +1,64 @@
+# 一级标题
+## 二级标题
+### 三级标题
+#### 四级标题
+#####  五级标题
+####### 六级标题
+
+
+> 引用
+
+*** 
+分割线
+
+*斜体*
+
+~~删除线~~
+
+**粗体**
+
+* 1
+
+
++ 2
+
+代码块，8个空格
+
+		var i = 0;
+        var j = 1
+        
+
+```
+	public static void main(String [] args) {
+
+    
+    }
+
+```
+
+
+
+
+	public static void main(String [] args) {
+
+    
+    }
+
+
+| Tables        | Are           | Cool  | Cool  |
+| ------------- |:-------------:| -----:| -----:|
+| col 3 is      | right-aligned | $1600 |$1600  |
+| col 2 is      | centered      |   $12 |$1600  |
+| zebra stripes | are neat      |    $1 |$1600  |
+
+
+`public static void main(String [] args) {
+		System.out.println("");
+    }`
+
+
+
+[链接](brightdesign.cn) 
+
+![图片](https://avatars2.githubusercontent.com/u/7097453?v=3&s=460)
+
