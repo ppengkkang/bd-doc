@@ -12,3 +12,5 @@
 [customer-relationships kmodule](https://github.com/BxMS-Examples/customer-relationships)
 
 [btm config](http://web.archive.org/web/20150520175218/https://docs.codehaus.org/display/BTM/Configuration2x)
+
+http://blog.daocloud.io/microservices-2/
